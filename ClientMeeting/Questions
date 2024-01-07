@@ -1,4 +1,17 @@
-Questões:
+Questões gerais:
 1 Quais os tipos de utilizadores?
-2 Quais os tipos de permissões de cada utilizador?
+2 Qual a matriz de acessos/ permissões por cada utilizador?
 3 Quais os dispositivos que devem ser suportados pela app?
+
+Questões por página da mockup:
+
+--Página Inicial--
+1 A página Inicial deverá ser igual para todos os tipos de utilizadores ou quais as diferenças nesta 
+página por cada tipo de utilizador?
+
+2  - O que significa quadro de Notas, 
+    - quem tem acesso/quem deve ver o quadro 
+    - e quais as permissóes que cada tipo de utilizador terá (escrita/leitura)
+
+
+
