@@ -1,0 +1,33 @@
+REUNIÃO 1 (5/1/2023)
+
+
+---1ªa fase---
+
+Criar aplicação web que tenha bases dados POR DETRÁS e que evite o processo dos exceis:
+
+tablea cuidadores (enfermeiro)
+tabela utentes
+
+permitir que aplicação evite que tenham de andar a manipular exceis
+e depois que produza uma area de agregação com os valores a pagar aos cuidadores por periodo de tempo?
+Clarificar isto melhor
+
+COLABORADORA pode ser cuidadora ou empregada doméstica dependendo
+
+PROXIMOS PASSOS:
+
+->WISH4WISDOM: avançar com orçamento e organigrama base de implementação
+->NovoCuidar: fazer demonstração do preenchimento de um excel numa sessão live
+-------------------------------
+---2ª fase----
+cuidadora poder escrever o que faz
+
+--------------------------------
+---3ª fase----
+
+familia ter acesso 
+
+----4a fase----
+Ligar a API de programa de faturação MOLONI
+
+
